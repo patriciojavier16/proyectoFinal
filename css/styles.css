@@ -1,0 +1,89 @@
+body {
+    font: 20px Montserrat, sans-serif;
+    line-height: 1.8;
+    color: #0a0a0a;
+}
+
+p {
+    font-size: 16px;
+}
+
+.tamanio-logo {
+    width: 400px;
+    height: 400px;
+}
+
+.tamanio-img {
+    width: 300px;
+    height: 250px;
+}
+
+.margin {
+    margin-bottom: 45px;
+}
+
+.back1 {
+    background-color: #d9a98f;
+    color: #d31a1a;
+}
+
+.img {
+    width: 50%;
+    height: auto;
+}
+
+.back2 {
+    background-color: #a9e8ae;
+    color: #ffffff;
+}
+
+.back3 {
+    background-color: #a5e8e8;
+    color: #0f0e0e;
+}
+
+.back4 {
+    background-color: #d9a98f;
+    color: #080808;
+}
+
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.imagen {
+    width: 50%;
+}
+
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+}
+
+.navbar-nav li a:hover {
+    color: #7e5a31 !important;
+}
+
+footer {
+    background-color: #2f2f2f;
+    color: #fff;
+}
+
+.tamanio-icono {
+    width: 50px;
+    height: 50px;
+}
+
+.tamanio-servicios {
+    width: 70px;
+    height: 70px;
+}
+.color{
+    color: #080808;
+}
